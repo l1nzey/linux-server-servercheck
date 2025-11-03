@@ -2,6 +2,9 @@
 
 A bash script to analyse basic server performance stats.
 
+# Project URL
+https://github.com/rarebek/server-performace-stats
+
 ## Getting Started
 
 **Clone the repository**
@@ -20,6 +23,6 @@ chmod +x server-stats.sh
 ./server-stats.sh
 ```
 
-This project is part of [roadmap.sh](https://roadmap.sh) DevOps projects.  
+https://roadmap.sh/projects/server-stats 
 
-https://github.com/l1nzey/linux-server-servercheck.git
+
