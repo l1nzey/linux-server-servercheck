@@ -3,7 +3,7 @@
 A simple Bash script that displays key server performance metrics including CPU, memory, disk usage, and top processes.  
 It provides a quick overview of system health with clean, color-coded output.
 
-📂 **Project URL:** [https://github.com/l1nzey/server-stats](https://github.com/l1nzey/server-stats)
+📂 **Project URL:** [https://github.com/l1nzey/linux-server-servercheck](https://github.com/l1nzey/linux-server-servercheck)
 
 ## 🚀 Features
 - CPU, memory, and disk usage  
