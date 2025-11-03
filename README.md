@@ -1,15 +1,24 @@
-# 🖥️ Server Performance Stats Script
+# Server Performance Stats
 
-A simple Bash script that displays key server performance metrics including CPU, memory, disk usage, and top processes.  
-It provides a quick overview of system health with clean, color-coded output.
+A bash script to analyse basic server performance stats.
 
-📂 **Project URL:** [https://github.com/l1nzey/linux-server-servercheck](https://github.com/l1nzey/linux-server-servercheck)
+## Getting Started
 
-## 🚀 Features
-- CPU, memory, and disk usage  
-- Top 5 processes by CPU and memory  
-- Optional: uptime, OS version, and load average  
+**Clone the repository**
+```bash
+git clone https://github.com/l1nzey/linux-server-servercheck.git
+cd server-performance-stats
+```
 
-## ⚙️ Usage
+**Make the script executable**
+```bash
+chmod +x server-stats.sh
+```
+
+**Run the script**
 ```bash
 ./server-stats.sh
+```
+
+This project is part of [roadmap.sh](https://roadmap.sh) DevOps projects.  
+Project URL: https://github.com/l1nzey/linux-server-servercheck
