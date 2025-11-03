@@ -21,4 +21,4 @@ chmod +x server-stats.sh
 ```
 
 This project is part of [roadmap.sh](https://roadmap.sh) DevOps projects.  
-Project URL: https://github.com/l1nzey/linux-server-servercheck
+
