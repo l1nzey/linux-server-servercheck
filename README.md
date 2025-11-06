@@ -2,8 +2,6 @@
 
 A bash script to analyse basic server performance stats.
 
-# Project URL
-https://github.com/rarebek/server-performace-stats
 
 ## Getting Started
 
